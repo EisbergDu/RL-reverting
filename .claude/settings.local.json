@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(python3 -c \"import torch, numpy, matplotlib; print\\('All deps OK'\\)\")",
-      "Bash(pip3 install *)",
-      "Bash(python3 -c \"import torch, numpy, matplotlib, pandas; print\\('All OK, torch:', torch.__version__\\)\")"
-    ]
-  }
-}
