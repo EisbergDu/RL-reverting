@@ -1,7 +1,6 @@
 # Generated artifacts and outputs
 *.png
 *.csv
-*.pdf
 
 # Notebook checkpoints
 .ipynb_checkpoints/
